@@ -173,6 +173,6 @@ Module['FS_createPath']('/CUDL/Content', 'Paks', true, true);
   }
 
  }
- loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 81, "filename": "/UE4CommandLine.txt"}, {"start": 81, "audio": 0, "end": 60104716, "filename": "/CUDL/Content/Paks/CUDL-HTML5.pak"}], "remote_package_size": 60104716, "package_uuid": "f462b620-0a59-47d5-b0c5-427df4207f1a"});
+ loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 81, "filename": "/UE4CommandLine.txt"}, {"start": 81, "audio": 0, "end": 60116643, "filename": "/CUDL/Content/Paks/CUDL-HTML5.pak"}], "remote_package_size": 60116643, "package_uuid": "5090c16d-f79e-46bd-b98b-2594287da0c3"});
 
 })();
